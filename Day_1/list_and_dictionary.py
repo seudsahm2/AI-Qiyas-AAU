@@ -1,0 +1,1 @@
+# to opn th fil in jupytr th xtntion should be ipynb
